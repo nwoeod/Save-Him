@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"room start","order":5,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"room start","order":5,"parentId":9,"scrollX":1092,"scrollY":595.3333333333334},
 {"id":2,"expanded":false,"name":"武器商店","order":7,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"房子 2","order":6,"parentId":9,"scrollX":1092,"scrollY":595.3333333333334},
 {"id":4,"expanded":true,"name":"start","order":1,"parentId":0,"scrollX":1092,"scrollY":595.3333333333334},
