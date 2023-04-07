@@ -5,12 +5,13 @@ null,
 {"id":3,"expanded":true,"name":"兄弟小屋","order":7,"parentId":9,"scrollX":819,"scrollY":446.5},
 {"id":4,"expanded":true,"name":"start","order":1,"parentId":0,"scrollX":819,"scrollY":446.5},
 {"id":5,"expanded":true,"name":"森林","order":11,"parentId":10,"scrollX":816,"scrollY":800},
-{"id":6,"expanded":false,"name":"公會 1F","order":4,"parentId":9,"scrollX":811,"scrollY":506.5},
+{"id":6,"expanded":false,"name":"公會 1F","order":4,"parentId":9,"scrollX":811,"scrollY":513.5},
 {"id":7,"expanded":false,"name":"公會 2F","order":5,"parentId":6,"scrollX":819,"scrollY":446.5},
 {"id":8,"expanded":false,"name":"道具商店","order":9,"parentId":9,"scrollX":819,"scrollY":446.5},
-{"id":9,"expanded":true,"name":"普通城鎮","order":3,"parentId":10,"scrollX":811,"scrollY":601.5},
-{"id":10,"expanded":true,"name":"世界 3","order":2,"parentId":0,"scrollX":816,"scrollY":2050},
-{"id":11,"expanded":false,"name":"失落的森林","order":12,"parentId":5,"scrollX":816,"scrollY":1641.5},
+{"id":9,"expanded":true,"name":"普通城鎮","order":3,"parentId":10,"scrollX":811,"scrollY":941.5},
+{"id":10,"expanded":true,"name":"世界 3","order":2,"parentId":0,"scrollX":816,"scrollY":1990},
+{"id":11,"expanded":false,"name":"失落的森林","order":12,"parentId":5,"scrollX":811,"scrollY":2441.5},
 {"id":12,"expanded":false,"name":"轉職大廳","order":10,"parentId":9,"scrollX":811,"scrollY":446.5},
-{"id":13,"expanded":false,"name":"遺址","order":13,"parentId":5,"scrollX":811,"scrollY":766.5}
+{"id":13,"expanded":false,"name":"遺址","order":13,"parentId":5,"scrollX":816,"scrollY":800},
+{"id":14,"expanded":false,"name":"被遺棄的城鎮","order":14,"parentId":10,"scrollX":886,"scrollY":1238.5}
 ]
