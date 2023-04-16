@@ -1,7 +1,13 @@
 [
 null,
-{"id":1,"list":[{"code":121,"indent":0,"parameters":[9,9,0]},{"code":0,"indent":0,"parameters":[]}],"name":"使用乞討","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":1,"list":[{"code":108,"indent":0,"parameters":["變數存入NO.21 偷竊"]},{"code":121,"indent":0,"parameters":[26,26,0]},{"code":122,"indent":0,"parameters":[7,7,0,0,12]},{"code":0,"indent":0,"parameters":[]}],"name":"使用偷竊","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":108,"indent":0,"parameters":["魔物消失600框後再出現"]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":15,"parameters":[600],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":15,"parameters":[600],"indent":null}]},{"code":123,"indent":0,"parameters":["A",1]},{"code":0,"indent":0,"parameters":[]}],"name":"魔物退場","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":122,"indent":0,"parameters":[12,12,0,2,1,10]},{"code":111,"indent":0,"parameters":[1,12,0,1,2]},{"code":126,"indent":1,"parameters":[6,0,0,5]},{"code":101,"indent":1,"parameters":["",0,0,1]},{"code":401,"indent":1,"parameters":[""]},{"code":401,"indent":1,"parameters":["                       獲得 課金攻擊 x 5"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[1,12,0,3,2]},{"code":126,"indent":2,"parameters":[6,0,0,1]},{"code":101,"indent":2,"parameters":["",0,0,1]},{"code":401,"indent":2,"parameters":[""]},{"code":401,"indent":2,"parameters":["                       獲得 課金攻擊"]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":111,"indent":2,"parameters":[1,12,0,5,2]},{"code":126,"indent":3,"parameters":[21,0,0,1]},{"code":101,"indent":3,"parameters":["",0,0,1]},{"code":401,"indent":3,"parameters":[""]},{"code":401,"indent":3,"parameters":["                       獲得 抽獎寶箱"]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":108,"indent":3,"parameters":["安慰獎"]},{"code":111,"indent":3,"parameters":[1,12,0,10,2]},{"code":125,"indent":4,"parameters":[0,0,500]},{"code":101,"indent":4,"parameters":["",0,0,1]},{"code":401,"indent":4,"parameters":[""]},{"code":401,"indent":4,"parameters":["                       獲得 金幣\\$"]},{"code":0,"indent":4,"parameters":[]},{"code":412,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"打開寶箱","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
